@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python2
 #
 #  Fingerprint a web server and identify its vendor/version/OS
 #  Copyright (C) 2003  Dustin Lee
